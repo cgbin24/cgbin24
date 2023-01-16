@@ -56,6 +56,18 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 
+<!-- 常用语言占比统计 -->
+&emsp;&emsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbin24&layout=compact&theme=tokyonight)
+
+<!-- 仓库状态统计 -->
+&emsp;&emsp;
+<!--
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbin24&show_icons=true&theme=tokyonight)
+-->
+
+
+
 
 > The only thing that matters is what you choose to be now.<br/>
 你当下所做的选择才最为重要。
