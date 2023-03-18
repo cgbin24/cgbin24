@@ -98,6 +98,9 @@ Here are some ideas to get you started:
 -->
 
 
+![cgbin24's Metrics](https://metrics.lecoq.io/cgbin24?template=classic&config.timezone=Asia%2FShanghai)
+
+
 
 
 > The only thing that matters is what you choose to be now.<br/>
