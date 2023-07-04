@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://blog.csdn.net/weixin_43802738"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <a href="https://blog.csdn.net/weixin_43802738"><img src="https://visitor-badge.glitch.me/badge?page_id=cgbin24" alt="访客统计" /></a>
+<!--   <a href="https://blog.csdn.net/weixin_43802738"><img src="https://visitor-badge.glitch.me/badge?page_id=cgbin24" alt="访客统计" /></a> -->
 </div>
 
 <!--
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 -->
 
 
-![cgbin24's Metrics](https://metrics.lecoq.io/cgbin24?template=classic&config.timezone=Asia%2FShanghai)
+<!--![cgbin24's Metrics](https://metrics.lecoq.io/cgbin24?template=classic&config.timezone=Asia%2FShanghai)-->
 
 
 
