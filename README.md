@@ -5,15 +5,9 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/"/></div>
-<br> -->
-
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.csdn.net/weixin_43802738"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-<!-- 访客数统计徽标 -->
-<!--   <a href="https://blog.csdn.net/weixin_43802738"><img src="https://visitor-badge.glitch.me/badge?page_id=cgbin24" alt="访客统计" /></a> -->
 </div>
 
 <!--
@@ -33,54 +27,69 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-💪 concentrate on:
+💪 Concentrate on:
 
 &emsp;&emsp;
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Vue](https://img.shields.io/badge/Vue-3DDC84?style=flat-square&logo=Vue&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![react](https://img.shields.io/badge/-react-fff?style=flat-square&logo=react)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Angular](https://img.shields.io/badge/Angular-%23276DC3.svg?style=flat-square&logo=Angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+</a>
+<a href="https://blog.csdn.net/weixin_43802738">
+  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 </a>
   
-🧠 next:
+🧠 Next:
 
 &emsp;&emsp;
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Flutter](https://img.shields.io/badge/Flutter-%23217346.svg?style=style=flat-square&logo=Flutter&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Java](https://img.shields.io/badge/Java-%230769AD.svg?style=style=flat-square&logo=Java&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 </a>
 <a href="https://blog.csdn.net/weixin_43802738">
-  ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</a>
+<a href="https://blog.csdn.net/weixin_43802738">
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+</a>
+<a href="https://blog.csdn.net/weixin_43802738">
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+</a>
+
+<!-- 仓库状态统计 -->
+&emsp;&emsp;
+<a href="https://blog.csdn.net/weixin_43802738">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbin24&show_icons=true&theme=tokyonight)
 </a>
 
 <!-- 常用语言占比统计 -->
@@ -88,18 +97,6 @@ Here are some ideas to get you started:
 <a href="https://blog.csdn.net/weixin_43802738">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbin24&layout=compact&theme=tokyonight)
 </a>
-
-<!-- 仓库状态统计 -->
-&emsp;&emsp;
-<!--
-<a href="https://blog.csdn.net/weixin_43802738">
-  ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgbin24&show_icons=true&theme=tokyonight)
-</a>
--->
-
-
-<!--![cgbin24's Metrics](https://metrics.lecoq.io/cgbin24?template=classic&config.timezone=Asia%2FShanghai)-->
-
 
 
 
