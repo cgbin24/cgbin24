@@ -99,8 +99,8 @@ Here are some ideas to get you started:
 </a>
 
 🧠 My works:
-&emsp;&emsp;
 
+&emsp;&emsp;
 <img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/miniapp/images/TDot.png" />
 
 &emsp;&emsp;
