@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 🧠 My works:
 
 &emsp;&emsp;
-<img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/miniapp/images/TDot.png" />
+<img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/applet/images/TDot.png" />
 
 &emsp;&emsp;
 
