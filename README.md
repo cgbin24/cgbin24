@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 </a>
   
-🧠 Next:
+🧾 Next:
 
 &emsp;&emsp;
 <a href="https://blog.csdn.net/weixin_43802738">
@@ -98,6 +98,12 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgbin24&layout=compact&theme=tokyonight)
 </a>
 
+🧠 My works:
+&emsp;&emsp;
+
+<img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/miniapp/images/TDot.png" />
+
+&emsp;&emsp;
 
 
 > The only thing that matters is what you choose to be now.<br/>
