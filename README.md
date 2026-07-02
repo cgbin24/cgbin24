@@ -97,6 +97,10 @@
 &emsp;&emsp;
 <img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/applet/images/TDot.png" />
 
+<a href="https://hz.urest.top" alt="汉字书写学习">
+  <img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/applet/images/xhz.jpg" />
+</>
+
 &emsp;&emsp;
 
 
