@@ -11,10 +11,10 @@
 </div>
 
 
-### ✨ _Hi there_ ✨
+### ✨ **_Hi_** ✨
 
-🌱
-&emsp;&emsp;
+> **Languages**
+
 <span>
   <a href="https://blog.csdn.net/weixin_43802738">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,17 +42,26 @@
   </a>
 </span>
 
-🔭
-&emsp;&emsp;
+> **Interested**
+
 <span>
+  <a href="https://blog.csdn.net/weixin_43802738">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://blog.csdn.net/weixin_43802738">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  </a>
+  <a href="https://blog.csdn.net/weixin_43802738">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://blog.csdn.net/weixin_43802738">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  </a>
   <a href="https://blog.csdn.net/weixin_43802738">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
   <a href="https://blog.csdn.net/weixin_43802738">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://blog.csdn.net/weixin_43802738">
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -63,43 +72,34 @@
   <a href="https://blog.csdn.net/weixin_43802738">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  </a>
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  </a>
 </span>
 
-&emsp;&emsp;
-<div align="center">
-  <!-- 仓库状态统计 -->
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cgbin24&show_icons=true&theme=tokyonight" />
-  </a>
-  <!-- 常用语言占比统计 -->
-  <a href="https://blog.csdn.net/weixin_43802738">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgbin24&layout=compact&theme=tokyonight" />
-  </a>  
-</div>
+---
 
-&emsp;&emsp;
-<a href="https://blog.csdn.net/weixin_43802738">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cgbin24&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-</a>
+> 💬 **_My Projects_** 💬
 
+<p align=center>
+  <img width="50%" alt="TDot" src="./sources/images/TDot.png" />
+</p>
 
-💬 _My works_ 💬
-
-&emsp;&emsp;
-<img width="160" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/applet/images/TDot.png" />
-
-<a href="https://hz.urest.top" alt="汉字书写学习">
-  <img height="108" src="https://raw.githubusercontent.com/cgbin24/cgbin24/master/sources/projects/applet/images/xhz.jpg" />
-</>
+<p>
+  <a href="https://hz.urest.top">
+    <img width=48% alt="汉字书写学习" src="./sources/images/xhz.png" />
+  </>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://image.urest.top">
+    <img width=48% alt="在线图片阅读器" src="./sources/images/pic.png" />
+  </>
+</p>
+<p>
+  <a href="https://svg.urest.top">
+    <img width=48% alt="在线图片阅读器" src="./sources/images/svg.png" />
+  </>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.urest.top">
+    <img width=48% alt="在线图片阅读器" src="./sources/images/code.png" />
+  </>
+</p>
 
 &emsp;&emsp;
 
