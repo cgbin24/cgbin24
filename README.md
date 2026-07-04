@@ -100,6 +100,12 @@
     <img width=48% alt="在线图片阅读器" src="./sources/images/code.png" />
   </>
 </p>
+<p>
+  <a href="https://web.urest.top">
+    <img width=48% alt="前端动效探索" src="./sources/images/web.png" />
+  </>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 &emsp;&emsp;
 
