@@ -79,7 +79,7 @@
 > 💬 **_My Projects_** 💬
 
 <p align=center>
-  <img width="50%" alt="TDot" src="./sources/images/TDot.png" />
+  <img width="36%" alt="TDot" src="./sources/images/TDot.png" />
 </p>
 
 <p>
